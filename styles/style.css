@@ -1,0 +1,85 @@
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+}
+
+header {
+	height: 387.56px;
+}
+
+ul li a {
+	color: #FFFFFF;
+}
+
+section img {
+	width: 1195px;
+	height: 600px;
+}
+
+.contact {
+	background-color: white;
+	border-radius: 28px;
+	width: 80px;
+}
+
+.contact a {
+	color: #171717;
+}
+
+h2 {
+	size: 28px;
+}
+
+section div img{
+	width: 219px;
+	height: 219px;
+}
+
+p {
+	width: 951px;
+	font-size: 16px;
+	color: #171717;
+}
+
+.info {
+	font-size: 16px;
+	background-color: #0A22F4;
+	color: #FFFFFF;
+	border-radius: 28px;
+}
+
+footer {
+	background-color: #0A22F4;
+	height: 160px;
+}
+
+h4 {
+	color: #FFFFFF;
+	width: 209px;
+	height: 19px;
+}
+
+span {
+	width: 106px;
+	height: 16px;
+	color: #FFFFFF;
+}
+
+footer img {
+	height: 26px;
+	width: 26px;
+}
+
+footer p {
+	color: #FFFFFF;
+	width: 26px;
+	height: 16px;
+}
+
+.footer-logo {
+	width: 121px;
+	height: 35px;
+}
