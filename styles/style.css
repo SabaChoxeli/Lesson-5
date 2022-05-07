@@ -1,85 +1,123 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
 a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
-ul {
-	list-style-type: none;
+ul,
+ol {
+  list-style-type: none;
 }
 
 header {
-	height: 387.56px;
+  height: 387.56px;
+}
+
+header img {
+  margin-left: 240px;
+  margin-top: 40px;
+  margin-right: 488px;
 }
 
 ul li a {
-	color: #FFFFFF;
+  color: #ffffff;
 }
 
-section img {
-	width: 1195px;
-	height: 600px;
+li {
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 45px;
+}
+
+.building {
+  height: 600px;
+  margin-left: 362px;
+  margin-right: 362px;
+  margin-top: -160px;
+  margin-bottom: 30px;
 }
 
 .contact {
-	background-color: white;
-	border-radius: 28px;
-	width: 80px;
+  background-color: white;
+  border-radius: 28px;
+  padding: 18px 36px;
 }
 
 .contact a {
-	color: #171717;
+  color: #171717;
+}
+nav {
+  display: inline-block;
 }
 
-h2 {
-	size: 28px;
+section h2 {
+  size: 28px;
+  margin-left: 362px;
 }
 
-section div img{
-	width: 219px;
-	height: 219px;
+section div img {
+  display: inline-block;
+  width: 219px;
+  height: 219px;
+  padding-right: 25px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.firstimg {
+  margin-left: 360px;
 }
 
 p {
-	width: 951px;
-	font-size: 16px;
-	color: #171717;
+  width: 951px;
+  font-size: 16px;
+  color: #171717;
+  margin-left: 480px;
+  margin-bottom: 18px;
 }
 
 .info {
-	font-size: 16px;
-	background-color: #0A22F4;
-	color: #FFFFFF;
-	border-radius: 28px;
+  font-size: 16px;
+  background-color: #0a22f4;
+  color: #ffffff;
+  border-radius: 28px;
+  padding: 18px 57px;
+  margin-left: 780px;
+  margin-top: 58px;
+  margin-bottom: 180px;
+  display: inline-block;
 }
 
 footer {
-	background-color: #0A22F4;
-	height: 160px;
-}
+  background-color: #0a22f4;
 
 h4 {
-	color: #FFFFFF;
-	width: 209px;
-	height: 19px;
+  color: #ffffff;
+  width: 209px;
+  height: 19px;
 }
 
 span {
-	width: 106px;
-	height: 16px;
-	color: #FFFFFF;
+  width: 106px;
+  height: 16px;
+  color: #ffffff;
 }
 
 footer img {
-	height: 26px;
-	width: 26px;
+  height: 26px;
+  width: 26px;
 }
 
 footer p {
-	color: #FFFFFF;
-	width: 26px;
-	height: 16px;
+  color: #ffffff;
+  width: 26px;
+  height: 16px;
 }
 
 .footer-logo {
-	width: 121px;
-	height: 35px;
+  width: 121px;
+  height: 35px;
 }
