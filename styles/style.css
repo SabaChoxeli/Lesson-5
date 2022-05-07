@@ -12,6 +12,10 @@ ol {
   list-style-type: none;
 }
 
+span {
+  display: inline;
+}
+
 header {
   height: 387.56px;
 }
@@ -93,22 +97,11 @@ p {
 
 footer {
   background-color: #0a22f4;
-
-h4 {
-  color: #ffffff;
-  width: 209px;
-  height: 19px;
+  height: 1100px;
 }
 
-span {
-  width: 106px;
-  height: 16px;
-  color: #ffffff;
-}
-
-footer img {
-  height: 26px;
-  width: 26px;
+footer div {
+  display: inline-block;
 }
 
 footer p {
@@ -117,7 +110,98 @@ footer p {
   height: 16px;
 }
 
+footer div img {
+  background-color: white;
+}
+
+.kontakti {
+  color: #ffffff;
+  margin-left: 240px;
+  padding-top: 275px;
+  font-size: 32px;
+}
+
+.loremi {
+  font-size: 16px;
+  margin-top: 30px;
+  margin-left: 240px;
+  margin-bottom: 58px;
+  width: 463px;
+}
+
+iframe {
+  height: 197px;
+  width: 463px;
+  margin-top: 58px;
+  margin-left: 240px;
+  border-radius: 15px;
+}
+
+.map {
+  display: block;
+}
+
+.call {
+  background-color: #ffffff;
+  width: 70px;
+  height: 70px;
+  margin-left: 240px;
+  border-radius: 50px;
+  padding: 22px;
+  margin-top: 92px;
+  margin-bottom: 206px;
+}
+
+div span {
+  font-size: 22px;
+  color: #ffffff;
+  padding-left: 62px;
+}
+
+.mail {
+  background-color: #ffffff;
+  width: 70px;
+  height: 70px;
+  margin-left: 240px;
+  border-radius: 50px;
+  padding: 22px;
+  margin-top: 92px;
+}
+
+.upleba {
+  display: inline;
+  width: 209px;
+  height: 19px;
+  font-size: 16px;
+  color: #ffffff;
+  margin-left: 190px;
+  margin-top: 206px;
+  margin-bottom: 40px;
+}
+
+.damzadebulia {
+  display: inline;
+  font-size: 13px;
+  width: 106px;
+  height: 16px;
+  color: #ffffff;
+  margin-left: 896px;
+}
+
+div .guli {
+  background: transparent;
+  width: 26px;
+  height: 26px;
+}
+
+.it {
+  width: 26px;
+  height: 16px;
+  padding-left: 10px;
+}
+
 .footer-logo {
-  width: 121px;
   height: 35px;
+  background: transparent;
+  padding-left: 30px;
 }
